@@ -5,3 +5,6 @@
 
 ### Example game Brain-event
 [![asciicast](https://asciinema.org/a/aFl2AbkzRTrZywxI0y1Hv0UEu.png)](https://asciinema.org/a/aFl2AbkzRTrZywxI0y1Hv0UEu)
+
+### Example game Brain-calc
+[![asciicast](https://asciinema.org/a/j5cLIh8LL26qQuWglxDukJBvn.png)](https://asciinema.org/a/j5cLIh8LL26qQuWglxDukJBvn)
